@@ -17,3 +17,11 @@ iosPush.SendWithJSon("device token", "Test push send by Shyam Agarwal", json, ne
   Console.WriteLine(x.status);
 }));
 ```
+
+```csharp
+var path = "path of .p12 file";
+IOSPush iosPush = new IOSPush(ApnsServerEnvironment.Production/*ApnsServerEnvironment.Sandbox in case of development*/, path, "Password of p12 file");
+
+//Regular push notification: 2KB (2048 bytes) based on Legacy APNs binary interface
+iosPush.Send("device token", "Test push send by Shyam Agarwal", "ID=121;Name=Shyam");
+```
