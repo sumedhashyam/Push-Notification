@@ -14,3 +14,12 @@ D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Core.dll
 D:\projects\PushNotification\PushNotification\bin\Debug\Newtonsoft.Json.xml
 D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Apple.pdb
 D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Core.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushNotification.dll
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushNotification.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\Newtonsoft.Json.dll
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\Newtonsoft.Json.xml
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushSharp.Apple.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\bin\Debug\PushSharp.Core.pdb
+D:\personal\git-repository\Push-Notification\PushNotification\obj\Debug\PushNotification.dll
+D:\personal\git-repository\Push-Notification\PushNotification\obj\Debug\PushNotification.pdb

@@ -12,3 +12,17 @@ D:\projects\PushNotification\TestApplicaiton\bin\Debug\Newtonsoft.Json.dll
 D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushSharp.Apple.pdb
 D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushSharp.Core.pdb
 D:\projects\PushNotification\TestApplicaiton\bin\Debug\Newtonsoft.Json.xml
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\TestApplicaiton.exe.config
+D:\personal\git-repository\Push-Notification\TestApplicaiton\obj\Debug\TestApplicaiton.exe
+D:\personal\git-repository\Push-Notification\TestApplicaiton\obj\Debug\TestApplicaiton.pdb
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\TestApplicaiton.exe
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\TestApplicaiton.pdb
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\PushNotification.dll
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\PushSharp.Apple.dll
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\PushSharp.Core.dll
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\Newtonsoft.Json.dll
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\PushNotification.pdb
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\PushSharp.Apple.pdb
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\PushSharp.Core.pdb
+D:\personal\git-repository\Push-Notification\TestApplicaiton\bin\Debug\Newtonsoft.Json.xml
+D:\personal\git-repository\Push-Notification\TestApplicaiton\obj\Debug\TestApplicaiton.csprojResolveAssemblyReference.cache
