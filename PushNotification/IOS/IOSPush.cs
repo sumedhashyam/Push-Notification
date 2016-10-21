@@ -25,7 +25,7 @@ namespace PushNotification.IOS
         /// <summary>
         /// 
         /// </summary>
-        /// <param name="environment"></param>
+        /// <param name="serverEnvironment"></param>
         /// <param name="certificatePath">path of .p12 file</param>
         /// <param name="certificatePass">.p12 file password.</param>
         public IOSPush(ApnsServerEnvironment serverEnvironment, string certificatePath, string certificatePass)
@@ -145,7 +145,14 @@ namespace PushNotification.IOS
             // Close the client connection.
             client.Close();
         }
-        public void SendWithJSon(string userDeviceToken,string message,string json, Action<Result> callback)
+        /// <summary>
+        /// Regular push notification: 4KB (4096 bytes) based on HTTP/2-based APNs provider API
+        /// </summary>
+        /// <param name="userDeviceToken">Device token</param>
+        /// <param name="message">Message that will be displayed in notification bar</param>
+        /// <param name="json">JSON for extra fields</param>
+        /// <param name="callback">callback function</param>
+		public void SendWithJSon(string userDeviceToken,string message,string json, Action<Result> callback)
         {
             try
             {
