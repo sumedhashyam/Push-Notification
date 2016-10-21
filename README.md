@@ -4,7 +4,7 @@ C# library for sending iOS push
 Simple c# libray using which you can send Push notificaiton to iOS device. This library is based on [PushSharp](https://github.com/Redth/PushSharp)
 
 
-### APNS Sample Usage
+### APNS Sample Usage based on HTTP/2-based APNs provider API
 ```csharp
 var path = "path of .p12 file";
 IOSPush iosPush = new IOSPush(ApnsServerEnvironment.Production/*ApnsServerEnvironment.Sandbox in case of development*/, path, "Password of p12 file");
@@ -18,6 +18,7 @@ iosPush.SendWithJSon("device token", "Test push send by Shyam Agarwal", json, ne
 }));
 ```
 
+### APNS Sample Usage based on Legacy APNs binary interface
 ```csharp
 var path = "path of .p12 file";
 IOSPush iosPush = new IOSPush(ApnsServerEnvironment.Production/*ApnsServerEnvironment.Sandbox in case of development*/, path, "Password of p12 file");
