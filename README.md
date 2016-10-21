@@ -27,3 +27,8 @@ IOSPush iosPush = new IOSPush(ApnsServerEnvironment.Production/*ApnsServerEnviro
 //Regular push notification: 2KB (2048 bytes) based on Legacy APNs binary interface
 iosPush.Send("device token", "Test push send by Shyam Agarwal", "ID=121;Name=Shyam");
 ```
+
+
+License
+-------
+You don't need any license for my code but please check license section of [PushSharp](https://github.com/Redth/PushSharp) 
