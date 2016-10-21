@@ -1,0 +1,14 @@
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\TestApplicaiton.exe.config
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\TestApplicaiton.exe
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\TestApplicaiton.pdb
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushNotification.dll
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushNotification.pdb
+D:\projects\PushNotification\TestApplicaiton\obj\Debug\TestApplicaiton.csprojResolveAssemblyReference.cache
+D:\projects\PushNotification\TestApplicaiton\obj\Debug\TestApplicaiton.exe
+D:\projects\PushNotification\TestApplicaiton\obj\Debug\TestApplicaiton.pdb
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushSharp.Apple.dll
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushSharp.Core.dll
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushSharp.Apple.pdb
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\PushSharp.Core.pdb
+D:\projects\PushNotification\TestApplicaiton\bin\Debug\Newtonsoft.Json.xml

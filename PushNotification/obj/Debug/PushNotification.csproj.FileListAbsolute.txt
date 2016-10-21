@@ -1,0 +1,16 @@
+D:\Latest Project\PushNotification\PushNotification\bin\Debug\PushNotification.dll
+D:\Latest Project\PushNotification\PushNotification\bin\Debug\PushNotification.pdb
+D:\Latest Project\PushNotification\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+D:\Latest Project\PushNotification\PushNotification\obj\Debug\PushNotification.dll
+D:\Latest Project\PushNotification\PushNotification\obj\Debug\PushNotification.pdb
+D:\projects\PushNotification\PushNotification\bin\Debug\PushNotification.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\PushNotification.pdb
+D:\projects\PushNotification\PushNotification\obj\Debug\PushNotification.csprojResolveAssemblyReference.cache
+D:\projects\PushNotification\PushNotification\obj\Debug\PushNotification.dll
+D:\projects\PushNotification\PushNotification\obj\Debug\PushNotification.pdb
+D:\projects\PushNotification\PushNotification\bin\Debug\Newtonsoft.Json.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Apple.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Core.dll
+D:\projects\PushNotification\PushNotification\bin\Debug\Newtonsoft.Json.xml
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Apple.pdb
+D:\projects\PushNotification\PushNotification\bin\Debug\PushSharp.Core.pdb
