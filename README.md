@@ -33,11 +33,11 @@ iosPush.Send("device token", "Test push send by Shyam Agarwal", "ID=121;Name=Shy
 ```csharp
 AndroidPush androidPush = new AndroidPush("GCM Sender ID", "API key");
 
-            var json = "{\"ID\":\"121\",\"Name\":\"Shyam\",\"any_array\":[{\"field 1\":\"field 1 value\",\"sub array\":[{\"field 1\":\"field 1 value\",\"field 2\":\"field 2 value\"}]}]}";
+var json = "{\"ID\":\"121\",\"Name\":\"Shyam\",\"any_array\":[{\"field 1\":\"field 1 value\",\"sub array\":[{\"field 1\":\"field 1 value\",\"field 2\":\"field 2 value\"}]}]}";
 
-            androidPush.SendWithJSon("GCM device key", "PAGE 1", "Test push send by Shyam Agarwal", json, new Action<Result>(x => {
-                Console.WriteLine(x.status);
-            }));
+androidPush.SendWithJSon("GCM device key", "PAGE 1", "Test push send by Shyam Agarwal", json, new Action<Result>(x => {
+	Console.WriteLine(x.status);
+}));
 ```
 License
 -------
