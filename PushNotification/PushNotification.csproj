@@ -38,8 +38,12 @@
     <Reference Include="PushSharp.Apple">
       <HintPath>..\..\..\study\PushSharp-master\PushSharp-master\PushSharp.Apple\bin\Debug\PushSharp.Apple.dll</HintPath>
     </Reference>
-    <Reference Include="PushSharp.Core">
-      <HintPath>..\..\..\study\PushSharp-master\PushSharp-master\PushSharp.Apple\bin\Debug\PushSharp.Core.dll</HintPath>
+    <Reference Include="PushSharp.Core, Version=1.0.6121.39815, Culture=neutral, PublicKeyToken=cf74b75eab2c0170, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\study\PushSharp-master\PushSharp-master\PushSharp.Google\bin\Debug\PushSharp.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="PushSharp.Google">
+      <HintPath>..\..\..\..\study\PushSharp-master\PushSharp-master\PushSharp.Google\bin\Debug\PushSharp.Google.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -50,6 +54,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Android\AndroidPush.cs" />
     <Compile Include="IOS\ApnsConfiguration.cs" />
     <Compile Include="IOS\IOSPush.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
