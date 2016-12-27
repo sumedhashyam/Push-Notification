@@ -29,6 +29,16 @@ iosPush.Send("device token", "Test push send by Shyam Agarwal", "ID=121;Name=Shy
 ```
 
 
+### GCM push notification (Android)
+```csharp
+AndroidPush androidPush = new AndroidPush("GCM Sender ID", "API key");
+
+            var json = "{\"ID\":\"121\",\"Name\":\"Shyam\",\"any_array\":[{\"field 1\":\"field 1 value\",\"sub array\":[{\"field 1\":\"field 1 value\",\"field 2\":\"field 2 value\"}]}]}";
+
+            androidPush.SendWithJSon("GCM device key", "PAGE 1", "Test push send by Shyam Agarwal", json, new Action<Result>(x => {
+                Console.WriteLine(x.status);
+            }));
+```
 License
 -------
 You don't need any license for my code but please check license section of [PushSharp](https://github.com/Redth/PushSharp) 
