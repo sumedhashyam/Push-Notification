@@ -26,7 +26,7 @@ namespace TestApplicaiton
             iosPush.Send("device token", "Test push send by Shyam Agarwal", "ID=121;Name=Shyam");
 
             /* Android push example*/
-            AndroidPush androidPush = new AndroidPush("1088893957686", "AIzaSyCkFaqgI5BP2YEpYMpEk5fX1VF0qJX-PPo");
+            AndroidPush androidPush = new AndroidPush("GCM Sender ID", "API key");
 
             var json1 = "{\"notificationName\":\"Name\",\"notificationSubject\":\"Notification Test by AK \",\"notificationBody\":\"Body\",\"sendToUsers\":\"ashkot09@gmail.com\",\"notificationTypeID\":1,\"notificationActions\":[{\"NotificationName\":\"Add to reminder\",\"NotificationActionEntityValues\":[{\"NotificationEntityName\":\"Title\",\"NotificationEntityValue\":\"Test\"},{\"NotificationEntityName\":\"DateTime\",\"NotificationEntityValue\":\"Dec/28/2016 15:00:00\"}]},{\"NotificationName\":\"Add to calendar\",\"NotificationActionEntityValues\":[{\"NotificationEntityName\":\"Title\",\"NotificationEntityValue\":\"Title\"},{\"NotificationEntityName\":\"Location\",\"NotificationEntityValue\":\"Location\"},{\"NotificationEntityName\":\"All day\",\"NotificationEntityValue\":\"N\"},{\"NotificationEntityName\":\"Start DateTime\",\"NotificationEntityValue\":\"Dec/28/2016 08:00:00\"},{\"NotificationEntityName\":\"End DateTime\",\"NotificationEntityValue\":\"Dec/10/2017 5:00:00 PM\"},{\"NotificationEntityName\":\"Alert\",\"NotificationEntityValue\":\"None\"},{\"NotificationEntityName\":\"Show As\",\"NotificationEntityValue\":\"\"},{\"NotificationEntityName\":\"Note\",\"NotificationEntityValue\":\"Some notes here\"}]}]}";
 
